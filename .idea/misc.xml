@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yesmi/AndroidStudioProjects/Telnet_final/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.124" />
+        <entry key="..\:/Users/yesmi/AndroidStudioProjects/Telnet_final/app/src/main/res/drawable/btn.xml" value="0.1205" />
+        <entry key="..\:/Users/yesmi/AndroidStudioProjects/Telnet_final/app/src/main/res/drawable/ic_launcher_background.xml" value="0.124" />
+        <entry key="..\:/Users/yesmi/AndroidStudioProjects/Telnet_final/app/src/main/res/layout/activity_img.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/yesmi/AndroidStudioProjects/Telnet_final/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/yesmi/AndroidStudioProjects/Telnet_final/app/src/main/res/layout/activity_res.xml" value="0.264" />
+        <entry key="..\:/Users/yesmi/AndroidStudioProjects/Telnet_final/app/src/main/res/layout/db.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
